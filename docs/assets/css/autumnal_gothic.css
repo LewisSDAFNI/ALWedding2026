@@ -7,6 +7,14 @@ header {
   padding: 20px;
 }
 
+header {
+  background-color: #4b2e2e;
+  color: #f4e9d8;
+  border-top: 2px solid #a1866f;
+  padding: 20px;
+  margin-left: 200px;
+}
+
 body {
   text-align: left;
   background-color: #9b5616;
