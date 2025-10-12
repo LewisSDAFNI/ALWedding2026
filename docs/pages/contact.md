@@ -1,8 +1,9 @@
 ---
 layout: wedding
-title: Event Details
+title: Contact details page
+header: Contact details
 permalink: /contact/
-header: testing
+header: Description of the page
 ---
 
 ### Contact details

@@ -4,8 +4,6 @@ body {
   background-color: #9b5616;
   color: #f4e9d8;
   font-family: 'Garamond', serif;
-  width: 960px;
-  margin: 0 auto;
 }
 
 header {
@@ -16,15 +14,48 @@ header {
 }
 
 nav {
-  color: #bd8338;
-  background-color: #4b2e2e;
+  background-color: #9b5616;
+  border-right: 2px solid #a1866f;
   line-height: 30px;
   float: left;
+  text-align: left;
   display: inline;
   margin: 0;
   margin-right: 10px;
   padding: 0;
   width: 190px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 130px;
+  background-color: #f1f1f1;
+  height: 100%;
+  /* Full height */
+  position: fixed;
+  /* Make it stick, even on scroll */
+  overflow: auto;
+  /* Enable scrolling if the sidenav has too much content */
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link and background color on hover */
+li a:hover {
+  background-color: #555555;
+  color: white;
+}
+
+.active {
+  background-color: #04AA6D;
+  color: white;
 }
 
 section {
