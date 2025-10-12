@@ -1,4 +1,5 @@
 ---
+layout: wedding
 title: Event Details
 permalink: /details/
 ---
