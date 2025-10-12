@@ -13,10 +13,11 @@ body {
   color: #f4e9d8;
 }
 
-body {
+main {
   text-align: left;
   background-color: #9b5616;
   color: #f4e9d8;
+  margin-right: 200px;
 }
 
 a.ex1 {
