@@ -76,6 +76,11 @@ a {
   text-decoration: none;
 }
 
+b {
+  color: #3039b0;
+  text-decoration: none;
+}
+
 .gallery img {
   width: 30%;
   margin: 10px;
