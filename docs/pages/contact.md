@@ -7,7 +7,7 @@ header: Description of the page
 ---
 
 ### Contact details
-- Annette Goddard, 
-- Lewis Sampson, 
-- Wedding venue, <a href="https://www.bickleymill.co.uk/"> Bickley Mill, Country Inn & Wedding Venue</a>
+1. Annette Goddard, 
+2. Lewis Sampson, 
+3. Wedding venue, <a href="https://www.bickleymill.co.uk/"> Bickley Mill, Country Inn & Wedding Venue</a>
 
