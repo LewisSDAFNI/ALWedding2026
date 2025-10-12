@@ -1,10 +1,10 @@
 
-title: John & Jane's Wedding
+title: Lewis & Annettes's Wedding
 description: Celebrate our special day with us!
-author: John and Jane
-email: johnandjane@example.com
-baseurl: ""
-url: "https://yourusername.github.io"
+author: Lewis and Annette
+email: alwedding26@outlook.com
+baseurl: "https://lewissdafni.github.io/ALWedding2026"
+url: "https://lewissdafni.github.io/ALWedding2026"
 theme: minima
 plugins:
   - jekyll-feed
