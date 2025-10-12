@@ -3,21 +3,23 @@
 <html>
   <head>
     <meta charset='utf-8'>
+    <link rel="icon" href="https://lewissdafni.github.io/ALWedding2026/assets/images/cd.png" />
+    <link rel="stylesheet" href="https://lewissdafni.github.io/ALWedding2026/assets/css/autumnal_gothic.css" />
     <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
     <style>
       body { font-family: 'Georgia', serif; background-color: #fffaf0; color: #333; text-align: center; }
       header { background-color: #f8e8e8; padding: 20px; }
       h1 { color: #b03060; }
       .content { margin: 20px; }
     </style>
+    {% feed_meta %}
   </head>
   <body>
-    <header>
-      <h1>{{ site.title }}</h1>
-      <p>{{ site.description }}</p>
-    </header>
-    <div class="content">
-      {{ content }}
-    </div>
+    <header>{% include header.html %}</header>
+    <main>
+    </main>
+    <footer>
+    </footer>
   </body>
 </html>
