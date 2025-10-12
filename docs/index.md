@@ -1,4 +1,3 @@
-
 ---
 layout: wedding
 title: Our Wedding
