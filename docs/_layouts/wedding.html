@@ -20,13 +20,16 @@
   <header>
     <h1>{{ page.header }}</h1>
     <p>{{ page.description }}</p>
-
-    {% include navigation.html %}
   </header>
+  <nav>
+    {% include navigation.html %}
+  </nav>
   <main>
     {{ content}}
   </main>
   <footer>
+    <p>This site was a pain in the ass. You better appreciate my hard work and waste of time. Please submit your
+      feedback to <a href="https://thatsthefinger.com/">Up-Your-Self</a>.</p>
   </footer>
 </body>
 

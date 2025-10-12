@@ -2,6 +2,7 @@
 layout: wedding
 title: Event Details
 permalink: /contact/
+header: testing
 ---
 
 ### Contact details
