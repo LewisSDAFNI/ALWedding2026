@@ -1,7 +1,7 @@
 ---
 layout: wedding
 title: Event Details
-permalink: /details/
+permalink: /contact/
 ---
 
 ### Contact details
