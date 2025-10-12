@@ -8,12 +8,6 @@
   <meta name="description" content="{{ page.description }}" />
   <link rel="stylesheet" href="https://lewissdafni.github.io/ALWedding2026/assets/css/autumnal_gothic.css" />
   {% feed_meta %}
-  <!-- <style>
-      body { font-family: 'Georgia', serif; background-color: #fffaf0; color: #333; text-align: center; }
-      header { background-color: #f8e8e8; padding: 20px; }
-      h1 { color: #b03060; }
-      .content { margin: 20px; }
-    </style> -->
 </head>
 
 <body>
@@ -21,9 +15,7 @@
     <h1>{{ page.header }}</h1>
     <p>{{ page.description }}</p>
   </header>
-  <nav>
-    {% include navigation.html %}
-  </nav>
+  {% include navigation.html %}
   <main>
     {{ content}}
   </main>
