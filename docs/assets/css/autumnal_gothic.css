@@ -1,7 +1,7 @@
 /* Autumnal Gothic Theme Suggestions */
 body {
   text-align: center;
-  background-color: #811a08e5;
+  background-color: #9b5616;
   color: #f4e9d8;
   font-family: 'Garamond', serif;
   width: 960px;
@@ -16,10 +16,14 @@ header {
 }
 
 nav {
-  color: #3230b0;
+  color: #bd8338;
+  background-color: #4b2e2e;
   line-height: 30px;
   float: left;
-  padding: 5px;
+  display: inline;
+  margin: 0;
+  margin-right: 10px;
+  padding: 0;
   height: 100px;
   width: 190px;
 }
