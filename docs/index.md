@@ -1,8 +1,16 @@
+
 ---
-layout: home
-title: Welcome
+layout: wedding
+title: Our Wedding
 ---
 
-# Welcome to My Jekyll Site
+## Welcome to Our Wedding Website
 
-This is a simple website powered by [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com).
+We are so excited to celebrate our special day with you!
+
+### Event Details
+- **Date:** June 15, 2026
+- **Location:** Rosewood Garden, Vancouver
+- **Time:** 4:00 PM Ceremony, followed by Reception
+
+Please RSVP and find more details on the following pages.
