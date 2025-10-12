@@ -1,5 +1,23 @@
-<style>
-  body { font-family: 'Georgia', serif; background-color: #fffaf0; color: #333; text-align: center; }
-  header { background-color: #f8e8e8; padding: 20px; }
-  h1 { color: #b03060; }
-</style>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>{{ page.title }}</title>
+    <style>
+      body { font-family: 'Georgia', serif; background-color: #fffaf0; color: #333; text-align: center; }
+      header { background-color: #f8e8e8; padding: 20px; }
+      h1 { color: #b03060; }
+      .content { margin: 20px; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+    </header>
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>
