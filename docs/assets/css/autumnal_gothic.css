@@ -25,8 +25,22 @@ body {
 main {
   text-align: left;
   background-color: #9b5616;
-  color: #f4e9d8;
+  /* color: #f4e9d8; */
   margin-left: 200px;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: small-caps;
+  text-transform: none;
+}
+
+.centered-text {
+  text-align: center;
 }
 
 a.ex1 {
