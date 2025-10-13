@@ -1,6 +1,6 @@
 ---
 layout: wedding
-title: Event Details
+title: Event Details page
 header: Event Details
 permalink: /details/
 description: Description of the page

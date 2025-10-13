@@ -3,7 +3,7 @@ layout: wedding
 title: Contact details page
 header: Contact details
 permalink: /contact/
-header: Description of the page
+description: Description of the page
 ---
 
 ### Contact details

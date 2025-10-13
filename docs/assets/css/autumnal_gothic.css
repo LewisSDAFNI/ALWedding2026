@@ -19,6 +19,7 @@ body {
   text-align: left;
   background-color: #9b5616;
   color: #f4e9d8;
+  font-size: 16pt;
 }
 
 main {
@@ -90,9 +91,6 @@ h2,
 h3 {
   color: #bd8338;
 }
-
-
-
 
 .gallery img {
   width: 30%;
