@@ -37,6 +37,7 @@ main {
   font-style: italic;
   font-variant: small-caps;
   text-transform: none;
+  border-left: 2px solid #a1866f;
 }
 
 .centered-text {
@@ -70,7 +71,8 @@ ul {
   margin: 0;
   padding: 0;
   width: 190px;
-  background-color: #4b2e2e;
+  background-color: #9b5616;
+  ;
   height: 100%;
   /* Full height */
   position: fixed;

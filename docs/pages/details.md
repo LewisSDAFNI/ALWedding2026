@@ -9,7 +9,7 @@ description: Description of the page
 Annette and Lewis will officially be married on October 31st, in Plymouth registry office. There is a very tight limit on the number of witnesses to this service and we apologies for anyone who really wanted to watch a stern legal reading and Lewis attempting to remember how a pen work. There will be a small gathering and laid back lunch following this service and then Annette will be able to start panic-planning all the last minutes things are needed. We will reach out seperately to people to let them know about the service and lunch, but invite other to look forward to the exciting cermony and free food the following day. 
 
 ### Ceremony
- 1. Starts at 1:00 PM. Arrive before that...
+ 1. Starts at 1:30 PM. Arrive before that...
  2.  Location: Bickley Mill, Stoneycombe, 
 
 ### Reception
