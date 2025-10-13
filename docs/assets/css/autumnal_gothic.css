@@ -1,14 +1,14 @@
 /* Autumnal Gothic Theme Suggestions */
 
 header {
-  background-color: #4b2e2e;
+  background-color: #9b5616;
   color: #f4e9d8;
   border-bottom: 2px solid #a1866f;
   padding: 20px;
 }
 
 footer {
-  background-color: #4b2e2e;
+  background-color: #9b5616;
   color: #f4e9d8;
   border-top: 2px solid #a1866f;
   padding: 20px;
@@ -17,14 +17,14 @@ footer {
 
 body {
   text-align: left;
-  background-color: #9b5616;
+  background-color: #4b2e2e;
   color: #f4e9d8;
   font-size: 16pt;
 }
 
 main {
   text-align: left;
-  background-color: #9b5616;
+  background-color: #4b2e2e;
   /* color: #f4e9d8; */
   margin-left: 200px;
   font-family: Georgia, serif;
@@ -41,6 +41,10 @@ main {
 
 .centered-text {
   text-align: center;
+}
+
+.red-text {
+  color: #bb0000;
 }
 
 a.ex1 {
@@ -78,6 +82,7 @@ ul {
 li a.ex2 {
   text-align: center;
   display: block;
+  font-style: bold;
   color: black;
   padding: 8px 16px;
   text-decoration: none;
