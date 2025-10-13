@@ -48,8 +48,7 @@ main {
 }
 
 a.ex1 {
-  color: #3039b0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* nav {
