@@ -9,13 +9,13 @@
   <link rel="stylesheet" href="/assets/css/autumnal_gothic.css" />
   {% feed_meta %}
 </head>
+{% include navigation.html %}
 
 <body>
   <header>
     <h1>{{ page.header }}</h1>
     <p>{{ page.description }}</p>
   </header>
-  {% include navigation.html %}
   <main>
     {{ content }}
   </main>
