@@ -13,11 +13,11 @@
 <body>
   <header>
     <h1>{{ page.header }}</h1>
-    <p>{{ page.description }}</p>
   </header>
   {% include navigation.html %}
   <main>
     {{ content }}
+    {% include image-gallery.html folder="/uploads/album" %}
   </main>
   <footer>
     <p>This site was a pain in the ass. You better appreciate my hard work and waste of time. Please submit your
