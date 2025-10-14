@@ -3,15 +3,16 @@
 header {
   background-color: #9b5616;
   color: #f4e9d8;
-  border-bottom: 2px solid #a1866f;
+  border-bottom: 2px solid #622c06;
   padding: 20px;
+  margin-left: 200px;
 }
 
 footer {
   background-color: #9b5616;
-  color: #f4e9d8;
-  border-top: 2px solid #a1866f;
-  padding: 20px;
+  color: #000000;
+  border-top: 2px solid #622c06;
+  padding: 20px 20px;
   margin-left: 200px;
 }
 
@@ -25,13 +26,12 @@ body {
 main {
   text-align: left;
   background-color: #4b2e2e;
-  /* color: #f4e9d8; */
   margin-left: 200px;
+  color: #000000;
   font-family: Georgia, serif;
   font-size: 22pt;
   letter-spacing: 2px;
   word-spacing: 2px;
-  color: #000000;
   font-weight: 400;
   text-decoration: none;
   font-style: italic;
@@ -48,39 +48,56 @@ main {
 }
 
 a.ex1 {
-  color: #000000;
+  color: #450101;
   text-decoration: underline;
 }
 
-/* nav {
-  background-color: #9b5616;
-  border-right: 2px solid #a1866f;
-  line-height: 30px;
-  float: left;
-  text-align: left;
-  display: inline;
-  margin: 0;
-  padding: 0;
-  margin-right: 10px;
-  width: 190px;
-} */
-
-ul {
+.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 190px;
   background-color: #9b5616;
-  border-right: 2px solid #a1866f;
+  border-right: 2px solid #622c06;
   height: 100%;
   /* Full height */
   position: fixed;
   /* Make it stick, even on scroll */
   overflow: auto;
   /* Enable scrolling if the sidenav has too much content */
+  background-color: #333;
+  /* Black background color */
+  transition: top 0.3s;
+  /* Transition effect when sliding down (and up) */
 }
 
-li a.ex2 {
+/* Style the navbar links */
+.navbar a.ex2 {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.navbar a.ex2:hover {
+  background-color: #555555;
+  color: white;
+}
+
+/* Change the link and background color on hover */
+/* li a.ex2:hover {
+  background-color: #555555;
+  color: white;
+} */
+
+.navbar a.ex2:active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.navbar a.ex2 {
   text-align: center;
   display: block;
   font-style: bold;
@@ -89,15 +106,19 @@ li a.ex2 {
   text-decoration: none;
 }
 
-/* Change the link and background color on hover */
-li a.ex2:hover {
-  background-color: #555555;
-  color: white;
-}
-
-li a.ex2:active {
-  background-color: #04AA6D;
-  color: white;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 190px;
+  background-color: #9b5616;
+  border-right: 2px solid #622c06;
+  height: 100%;
+  /* Full height */
+  position: fixed;
+  /* Make it stick, even on scroll */
+  overflow: auto;
+  /* Enable scrolling if the sidenav has too much content */
 }
 
 section {
@@ -115,7 +136,7 @@ h3 {
 .gallery img {
   width: 30%;
   margin: 10px;
-  border: 2px solid #a1866f;
+  border: 2px solid #000000;
   box-shadow: 0 0 10px #00000088;
 }
 
