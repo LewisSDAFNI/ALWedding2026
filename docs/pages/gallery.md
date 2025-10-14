@@ -1,5 +1,5 @@
 ---
-layout: Gallery
+layout: gallery
 title: Gallery
 header: Gallery
 permalink: /gallery/
