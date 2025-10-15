@@ -4,7 +4,7 @@ description: Celebrate our special day with us!
 author: Lewis and Annette
 email: alwedding26@outlook.com
 baseurl: ""
-url: "https://lewissdafni.github.io/"
+url: "https://lewissdafni.github.io/ALWedding"
 theme: minima
 plugins:
   - jekyll-feed
