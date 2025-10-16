@@ -5,7 +5,7 @@ header: Extra Details
 permalink: /details/
 ---
 
-![Image](/assets/images/gallery/02_Cb_GoldenBokeh_SD_0028.jpg){: height="400" style="float: right"}
+![Image](/ALWedding/assets/images/gallery/02_Cb_GoldenBokeh_SD_0028.jpg){: height="400" style="float: right"}
 
 ### Registry Office
 Annette and Lewis will officially be married on <span style="color:red">October 31st</span>, in Plymouth registry office. There is a very tight limit on the number of witnesses to this service and we apologies for anyone who *really* wanted to watch a stern legal reading and Lewis attempting to remember how to use a pen. 
