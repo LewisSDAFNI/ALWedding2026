@@ -1,8 +1,8 @@
 ---
 layout: wedding
-title: Extra Details page
+title: Extra info page
 header: Extra Details
-permalink: /details/
+permalink: /info/
 ---
 
 ![Image](/ALWedding2026/assets/images/gallery/02_Cb_GoldenBokeh_SD_0028.jpg){: height="400" style="float: right"}

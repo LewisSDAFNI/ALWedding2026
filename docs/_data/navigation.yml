@@ -1,7 +1,13 @@
 - name: Home
   link: 
-- name: Details
-  link: /details
+- name: Info
+  link: /info
+- name: Our lovely couple
+  link: /video
+- name: Gift Registry
+  link: /registry
+- name: Cats
+  link: /cats
 - name: Contact
   link: /contact
 - name: Gallery
