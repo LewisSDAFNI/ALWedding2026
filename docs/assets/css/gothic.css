@@ -1,0 +1,164 @@
+/* Gothic Theme */
+
+header {
+    background-color: #000000;
+    color: #5b0202;
+    border-bottom: 4px solid #ff0000;
+    padding: 20px 20px;
+    margin-left: 10%;
+}
+
+footer {
+    background-color: #000000;
+    color: #5b0202;
+    border-top: 4px solid #ff0000;
+    padding: 20px 20px;
+    margin-left: 10%;
+}
+
+body {
+    text-align: left;
+}
+
+main {
+    text-align: left;
+    background-color: #232323;
+    margin-left: 10%;
+    color: #5b0202;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 22pt;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.red-text {
+    color: #bb0000;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+a.ex1 {
+    color: #450101;
+    text-decoration: underline;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    background-color: #9b5616;
+    border-right: 2px solid #622c06;
+    height: 100%;
+    /* Full height */
+    position: fixed;
+    /* Make it stick, even on scroll */
+    overflow: auto;
+    /* Enable scrolling if the sidenav has too much content */
+    background-color: #9b5616;
+    /* Black background color */
+    transition: top 0.3s;
+    /* Transition effect when sliding down (and up) */
+}
+
+/* Style the navbar links */
+.navbar a.ex2 {
+    text-align: center;
+    display: block;
+    font-style: bold;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.navbar a.ex2:hover,
+a.ex2:active {
+    background-color: #555555;
+    color: white;
+}
+
+/* Change the link and background color on hover */
+/* li a.ex2:hover {
+  background-color: #555555;
+  color: white;
+} */
+
+
+
+/* ul.ex1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 190px;
+  background-color: #9b5616;
+  border-right: 2px solid #622c06;
+  height: 100%;
+  Full height 
+  position: fixed;
+  Make it stick, even on scroll 
+  overflow: auto; 
+  Enable scrolling if the sidenav has too much content 
+}*/
+
+section {
+    float: left;
+    padding: 5px;
+    width: 65%;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia, serif;
+    color: #bd8338;
+}
+
+.gallery img {
+    width: 30%;
+    margin: 10px;
+    border: 2px solid #000000;
+    box-shadow: 0 0 10px #00000088;
+}
+
+form {
+    background-color: #3b2a2a;
+    padding: 20px;
+    border-radius: 8px;
+    color: #f4e9d8;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #a1866f;
+    background-color: #2c1e1e;
+    color: #f4e9d8;
+}
+
+input[type="submit"] {
+    background-color: #b03060;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
