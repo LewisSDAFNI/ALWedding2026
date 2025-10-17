@@ -1,11 +1,11 @@
-/* Autumnal Gothic Theme Suggestions */
+/* Autumnal Gothic Theme */
 
 header {
   background-color: #9b5616;
   color: #f4e9d8;
   border-bottom: 2px solid #622c06;
   padding: 20px;
-  margin-left: 200px;
+  margin-left: 10%;
 }
 
 footer {
@@ -13,7 +13,7 @@ footer {
   color: #000000;
   border-top: 2px solid #622c06;
   padding: 20px 20px;
-  margin-left: 200px;
+  margin-left: 10%;
 }
 
 body {
@@ -26,7 +26,7 @@ body {
 main {
   text-align: left;
   background-color: #4b2e2e;
-  margin-left: 200px;
+  margin-left: 10%;
   color: #000000;
   font-family: Georgia, serif;
   font-size: 22pt;

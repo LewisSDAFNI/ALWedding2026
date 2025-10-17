@@ -5,9 +5,9 @@ header: Extra Details
 permalink: /info/
 ---
 
-![Image](/ALWedding2026/assets/images/gallery/02_Cb_GoldenBokeh_SD_0028.jpg){: width="20%" style="float: right"}
+![Image](/ALWedding2026/assets/images/gallery/02_Cb_GoldenBokeh_SD_0028.jpg){: width="40%" style="float: right"}
 
-<section>
+<div width=10%>
 ### Registry Office
 Annette and Lewis will officially be married on <span style="color:red">October 31st</span>, in Plymouth registry office. There is a very tight limit on the number of witnesses to this service and we apologies for anyone who *really* wanted to watch a stern legal reading and Lewis attempting to remember how to use a pen. 
 
@@ -22,4 +22,4 @@ There will be a small gathering and laid back lunch following this service and t
 2. Dancing, drinking, and merryment to follow. <span style="color:red">(or else)</span>
 3. Evening food at 7:30 PM. 
 4. Dress code: Shock and Awe-tumnal 
-</section>
+</div>
