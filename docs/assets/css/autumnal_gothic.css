@@ -93,7 +93,8 @@ a.ex1 {
   text-decoration: none;
 }
 
-.navbar a.ex2:hover {
+.navbar a.ex2:hover,
+a.ex2:active {
   background-color: #555555;
   color: white;
 }
@@ -103,11 +104,6 @@ a.ex1 {
   background-color: #555555;
   color: white;
 } */
-
-.navbar a.ex2:active {
-  background-color: #04AA6D;
-  color: white;
-}
 
 
 
