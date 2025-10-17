@@ -5,7 +5,7 @@ header: Extra Details
 permalink: /info/
 ---
 
-![Image](/ALWedding2026/assets/images/gallery/02_Cb_GoldenBokeh_SD_0028.jpg){: width="40%" style="float: right"}
+![Image](/ALWedding2026/assets/images/gallery/02_Cb_GoldenBokeh_SD_0028.jpg){: width="30%" style="float: right"}
 
 <span width="60%" style="float: left">
 ### Registry Office
