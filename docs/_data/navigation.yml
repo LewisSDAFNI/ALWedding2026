@@ -8,7 +8,7 @@
   link: /registry
 - name: Cats
   link: /cats
-- name: Contact
-  link: /contact
+# - name: Contact
+#   link: /contact
 - name: Gallery
   link: /gallery
