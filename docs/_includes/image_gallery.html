@@ -34,7 +34,8 @@
 </style>
 
 <ul class="image-gallery">{% for file in site.static_files %}{% if file.path contains include.folder %}{% if
-    file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}{% assign
+    file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' or
+    file.extname == '.png' %}{% assign
     filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}<li>
         <a href="{{ site.url }}{{ file.path }}" title="{{ filename }}"><img
                 src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=200&h=200&output=jpg&q=50&t=square"
