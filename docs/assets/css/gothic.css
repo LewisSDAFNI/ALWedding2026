@@ -120,6 +120,7 @@ a.ex1 {
 .navbar a.ex2:hover,
 a.ex2:active {
     background-color: #fe0000;
+    color: #000000;
 }
 
 /* .navbar a.ex2:hover .bat {
