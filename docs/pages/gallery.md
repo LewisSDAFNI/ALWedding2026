@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: wedding
 title: Gallery
 header: Gallery
 permalink: /gallery/
