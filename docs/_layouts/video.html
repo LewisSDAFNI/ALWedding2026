@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+  <meta charset='utf-8'>
+  <link rel="icon" href="/ALWedding2026/assets/images/pumpkin.png" />
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}" />
+  <link rel="stylesheet" href="/ALWedding2026/assets/css/gothic.css" />
+  {% feed_meta %}
+</head>
+
+{% include navigation.html %}
+
+<body>
+  <header>
+    <h1>{{ page.header }}</h1>
+  </header>
+  <main>
+    {{ content }}
+    {% include image_gallery.html folder="/assets/images/algallery" %}
+  </main>
+  <footer>
+    <div class="row">
+      <div class="column">
+        <h3>Quick Links</h3>
+        <ul list-style-type: none>
+          <li>Annette Goddard, </li>
+          <li>Lewis Sampson, </li>
+          <li>Wedding venue, <a class="ex1" href="https://www.bickleymill.co.uk/"> Bickley Mill, Country Inn & Wedding
+              Venue </a></li>
+        </ul>
+      </div>
+      <div class="column">
+        <p>This site is a handmade HTML site, so I apologise for any issues. Please submit your
+          feedback to <a class="ex1" href="https://thatsthefinger.com/">Up-Your-Self</a>.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+
+</html>
