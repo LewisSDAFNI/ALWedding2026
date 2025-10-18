@@ -6,24 +6,27 @@
   <link rel="icon" href="/ALWedding2026/assets/images/pumpkin.png" />
   <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}" />
-  <link rel="stylesheet" href="/ALWedding2026/assets/css/autumnal_gothic.css" />
+  <link rel="stylesheet" href="/ALWedding2026/assets/css/bats.css" />
+  <link rel="stylesheet" href="/ALWedding2026/assets/css/gothic.css" />
   {% feed_meta %}
 </head>
 
 {% include navigation.html %}
 
 <body>
+  {% include bats.html %}
   <header class="gradient-background1">
     <h1>{{ page.header }}</h1>
     <p>{{ page.description }}</p>
   </header>
-  <main class="gradient-background2">
+  <main>
     {{ content }}
   </main>
   <footer class="gradient-background3">
     <div class="row">
       <div class="column">
-        <ul>
+        <h3>Quick Links</h3>
+        <ul list-style-type: none>
           <li>Annette Goddard, </li>
           <li>Lewis Sampson, </li>
           <li>Wedding venue, <a class="ex1" href="https://www.bickleymill.co.uk/"> Bickley Mill, Country Inn & Wedding
