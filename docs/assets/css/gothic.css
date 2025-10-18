@@ -1,11 +1,9 @@
 /* Gothic Theme */
 
 header {
-    /* background-color: #000000;
+    background-color: #000000;
     color: #5b0202;
-    border: 4px solid #5b0202; */
-    padding: 20px 20px;
-    margin-left: 11%;
+    border: 4px solid #5b0202;
 }
 
 footer {
@@ -13,8 +11,6 @@ footer {
     color: #5b0202; */
     font-size: 14pt;
     border: 4px solid #5b0202;
-    padding: 20px 20px;
-    margin-left: 11%;
 }
 
 body {
@@ -28,13 +24,13 @@ body {
     /* font-style: italic; */
     /* font-variant: small-caps; */
     text-transform: none;
+    margin-left: 13%;
+    padding: 20px 20px;
 }
 
 main {
     text-align: left;
     background-color: #232323;
-    padding: 20px 20px;
-    margin-left: 11%;
     color: #5b0202;
 }
 
@@ -46,11 +42,25 @@ main {
     color: #bb0000;
 }
 
-.gradient-background {
+.gradient-background1 {
     background: #000000;
-    background: -moz-linear-gradient(-45deg, #000000 0%, #575757 69%, #FF0E00 100%);
-    background: -webkit-linear-gradient(-45deg, #000000 0%, #575757 69%, #FF0E00 100%);
-    background: linear-gradient(135deg, #000000 0%, #575757 69%, #FF0E00 100%);
+    background: -moz-linear-gradient(-45deg, #000000 0%, #2c2c2c 80%, #5b0202 100%);
+    background: -webkit-linear-gradient(-45deg, #000000 0%, #2c2c2c 80%, #5b0202 100%);
+    background: linear-gradient(135deg, #000000 0%, #2c2c2c 80%, #5b0202 100%);
+}
+
+.gradient-background2 {
+    background: #5b5b5b;
+    background: -moz-linear-gradient(top, #5b5b5b 0%, #373737 82%, #838282 100%);
+    background: -webkit-linear-gradient(top, #5b5b5b 0%, #373737 82%, #838282 100%);
+    background: linear-gradient(to bottom, #5b5b5b 0%, #373737 82%, #838282 100%);
+}
+
+.gradient-background3 {
+    background: #5b5b5b;
+    background: -moz-linear-gradient(top, #838282 0%, #2c2c2c 82%, #5b0202 100%);
+    background: -webkit-linear-gradient(top, #838282 0%, #2c2c2c 82%, #5b0202 100%);
+    background: linear-gradient(to bottom, #838282 0%, #2c2c2c 82%, #5b0202 100%);
 }
 
 .column {
@@ -74,7 +84,7 @@ a.ex1 {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 10%;
+    width: 12%;
     background-color: #000000;
     border: 4px solid #5b0202;
     height: 100%;
