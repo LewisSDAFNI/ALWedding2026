@@ -6,4 +6,6 @@ permalink: /video/
 ---
 
 ### Description
-A page for our wedding video
+
+Click the photo links to enlarge them
+{% include image_gallery.html folder="/assets/images/algallery" %}

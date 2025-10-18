@@ -18,13 +18,6 @@ footer {
 
 body {
     text-align: left;
-}
-
-main {
-    text-align: left;
-    background-color: #232323;
-    margin-left: 12%;
-    color: #5b0202;
     font-family: "Courier New";
     font-size: 22pt;
     /* letter-spacing: 2px; */
@@ -32,8 +25,16 @@ main {
     font-weight: 400;
     text-decoration: none;
     /* font-style: italic; */
-    font-variant: small-caps;
+    /* font-variant: small-caps; */
     text-transform: none;
+}
+
+main {
+    text-align: left;
+    background-color: #232323;
+    padding: 20px 20px;
+    margin-left: 12%;
+    color: #5b0202;
 }
 
 .centered-text {
