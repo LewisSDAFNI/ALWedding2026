@@ -26,10 +26,6 @@ footer {
     transition: opacity 1s ease-in-out;
 }
 
-body:hover .bat {
-    opacity: 1;
-}
-
 svg {
     width: 100px;
     height: 50px;
@@ -197,6 +193,10 @@ a.ex1 {
 .navbar a.ex2:hover,
 a.ex2:active {
     background-color: #fe0000;
+}
+
+.navbar a.ex2:hover .bat {
+    opacity: 1;
 }
 
 /* Change the link and background color on hover */
