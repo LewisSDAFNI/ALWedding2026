@@ -239,7 +239,7 @@ main {
 }
 
 a.ex1 {
-    color: #450101;
+    color: #490000;
     text-decoration: underline;
 }
 
@@ -249,7 +249,7 @@ a.ex1 {
     padding: 0;
     width: 12%;
     background-color: #000000;
-    color: #5b0202;
+    color: #9e0000;
     border: 2px solid #5b0202;
     height: 100%;
     /* Full height */
@@ -269,6 +269,7 @@ a.ex1 {
     font-size: 16pt;
     padding: 8px 16px;
     text-decoration: none;
+    color: #9e0000;
 }
 
 .navbar a.ex2:hover,
