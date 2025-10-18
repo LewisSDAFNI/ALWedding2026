@@ -28,6 +28,8 @@ body {
     /* font-style: italic; */
     /* font-variant: small-caps; */
     text-transform: none;
+    margin-left: 0%;
+    padding: 20px 20px;
 }
 
 main {
