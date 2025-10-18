@@ -1,10 +1,10 @@
 body {
-    background: white;
+    background: rgba(255, 255, 255, 0);
 }
 
 /* customizable snowflake styling */
 .snowflake {
-    color: #fff;
+    color: #6e6e6e;
     font-size: 1em;
     font-family: Serif;
     text-shadow: 0 0 1px #000;
