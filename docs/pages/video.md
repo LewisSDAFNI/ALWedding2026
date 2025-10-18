@@ -1,6 +1,6 @@
 ---
 layout: wedding
-title: video page
+title: video page 
 header: Our lovely couple
 permalink: /video/
 ---
