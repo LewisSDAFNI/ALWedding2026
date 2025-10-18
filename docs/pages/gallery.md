@@ -1,5 +1,5 @@
 ---
-layout: wedding
+layout: video
 title: Gallery
 header: Gallery
 permalink: /gallery/

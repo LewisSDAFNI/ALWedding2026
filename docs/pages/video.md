@@ -1,5 +1,5 @@
 ---
-layout: wedding
+layout: video
 title: video page
 header: Our lovely couple
 permalink: /video/
