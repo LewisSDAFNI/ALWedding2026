@@ -11,6 +11,10 @@
         top: -10%
     }
 
+    80% {
+        top: 100%
+    }
+
     100% {
         top: 100%
     }
@@ -36,6 +40,10 @@
 @keyframes snowflakes-fall {
     0% {
         top: -10%
+    }
+
+    80% {
+        top: 100%
     }
 
     100% {
@@ -143,7 +151,7 @@
 /* Demo Purpose Only*/
 .demo {
     font-family: 'Raleway', sans-serif;
-    color: #fff;
+    color: #ffffff00;
     display: block;
     margin: 0 auto;
     padding: 15px 0;
