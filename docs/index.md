@@ -2,6 +2,7 @@
 layout: wedding
 title: Our Wedding
 header: Welcome to Our Wedding Website
+permalink: /
 ---
 
 <p class="centered-text"> A decade after first setting eyes on each other at a board game cafe, they finally invite you to their spooktacular day of marriage...dare you join them? </p>
