@@ -1,18 +1,18 @@
 /* Style the tab */
 .tab {
     overflow: hidden;
-    background-color: #f1f1f100;
+    border: 1px solid #ccc;
+    background-color: #000000;
+    color: #000000;
 }
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
-    text-align: center;
-    display: block;
-    font-style: bold;
-    font-size: 16pt;
-    padding: 8px 16px;
-    text-decoration: none;
-    color: #9e0000;
+    background-color: inherit;
+    color: inherit;
+    float: left;
+    border: none;
+    outline: none;
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
