@@ -1,5 +1,6 @@
 /* Gothic Theme */
 @import "bats.css";
+@import "tabs.css";
 
 header {
     background-color: #000000;
