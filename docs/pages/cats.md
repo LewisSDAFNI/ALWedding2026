@@ -6,4 +6,4 @@ permalink: /cats/
 ---
 
 ### Description
-A page dedicated to Cosmo. 
+{% include image_gallery.html folder="/assets/images/cats" %}
