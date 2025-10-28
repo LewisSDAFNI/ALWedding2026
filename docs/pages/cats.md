@@ -6,4 +6,4 @@ permalink: /cats/
 ---
 
 ### Description
-{% include image_gallery.html folder="../assets/images/cats" %}
+{% include image_gallery.html folder="/assets/images/cats" %}
