@@ -47,6 +47,10 @@ main {
     text-align: center;
 }
 
+.center {
+    text-align: center;
+}
+
 .red-text {
     color: #bb0000;
 }

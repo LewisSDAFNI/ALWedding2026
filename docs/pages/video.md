@@ -7,10 +7,11 @@ permalink: /video/
 
 ### Video
 
-<video width="320" height="240" controls>
-  <source src="../assets/video.mp4" type="video/mp4">
-</video>
-
+<div class="center">
+    <video width="600" controls>
+        <source src="../assets/video.mp4" type="video/mp4">
+    </video>
+</div>
 ### Photos
 
 Click the photo links to enlarge them
