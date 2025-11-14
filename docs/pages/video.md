@@ -6,7 +6,10 @@ permalink: /video/
 ---
 
 ### Video
-A link or import of the video
+
+<video width="320" height="240" controls>
+  <source src="../assets/video.mp4" type="video/mp4">
+</video>
 
 ### Photos
 
