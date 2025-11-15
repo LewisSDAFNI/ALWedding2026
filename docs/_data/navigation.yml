@@ -6,9 +6,7 @@
   link: /video
 - name: Gift Registry
   link: /registry
-- name: Cats
-  link: /cats
-# - name: Contact
-#   link: /contact
+- name: Pets
+  link: /pets
 - name: Gallery
   link: /gallery
