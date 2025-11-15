@@ -8,7 +8,7 @@ permalink: /video/
 ### Video
 
 <div class="center">
-    <video width="600" controls>
+    <video width="60%" controls>
         <source src="../assets/video.mp4" type="video/mp4">
     </video>
 </div>
