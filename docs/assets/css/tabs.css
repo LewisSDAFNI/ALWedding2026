@@ -34,7 +34,7 @@ button:active {
 /* Style the tab content */
 .tabcontent {
     display: none;
-    padding: 6px 12px;
+    padding: 12px 20px;
     border: 1px solid #4e0000;
     border-top: none;
 }
