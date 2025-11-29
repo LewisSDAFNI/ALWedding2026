@@ -1,7 +1,7 @@
 ---
 layout: wedding
 title: Registry page
-header: Gift registry replacement
+header: Gift registry
 permalink: /registry/
 ---
 ### Thank you, But
