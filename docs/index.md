@@ -12,9 +12,11 @@ We are so excited to celebrate our special day with you!
 
 &emsp;&emsp;**Date:** November 1st, 2026.<br/>
 &emsp;&emsp;**Location:** Bickley Mill Inn, Stoneycombe, Newton Abbot TQ12 5LN.<br/>
-&emsp;&emsp;**Cermony:** The official ceremony and blessing will start from 1:30 PM, arrival from 12:30 PM. <br/>
-&emsp;&emsp;**Reception** Evening celebrations will start from 5:30 PM with food, cake and dancing later.<br/>
+&emsp;&emsp;**Cermony:** The official ceremony and blessing will start from 1:30 PM, arrival from 12:45 PM. <br/>
+&emsp;&emsp;**Reception** Evening guest should arrive from around 5:30 PM. Food, cake, and celebrations will begin around 6.30 PM.<br/>
 
-For those of you who are able to make it please RSVP via E-mail (alwedding2026@outlook.com) or contact us on mobile.
+Please let us know if you can make it ASAP via E-mail (alwedding2026@outlook.com) or contact us on our mobiles. Otherwise we are hiring hitmen to track you down, so we can update our fancy spreadsheet. 
 
-To find out more details for The Wedding look at the following pages for information on things like accommodations near the venue, photos of important things, and extras.
+To find out more about The Wedding take a look at the following pages for information on things like accommodations near the venue, photos of important things, and extra details. 
+
+We look forward to seeing you all there! 
