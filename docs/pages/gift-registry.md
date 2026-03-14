@@ -9,4 +9,4 @@ We have already built our lives in our castle with Cosmo our familiar. We dont n
 
 Instead, we would appreciate a donation to Stroke Association, Cancer Research, or Dementia Awareness, all are close to our hearts. Please let us know of any donations so that we thank you for your support.
 
-Alternatively, there will be an online Honeymoon Fund and a collection box on the day. If you would really prefer to help us pay for a Honeymoon in 2027, then check this page closer to the date for the link to the Fund.
+Alternatively, there is an online Honeymoon Fund and a collection box on the day. If you would really prefer to help us pay for a Honeymoon in 2027, then follow [this link](https://www.trailfinders.com/wishlist#/) to the Fund. You will need to scroll to 'Make a contribution' and enter last name **Sampson** and reference **5BN6QS**. 
